@@ -1,0 +1,4 @@
+Manifest-Version: 1.2
+Main-Class: org.brunosimoes.programs.paintbrush.PaintBrush
+Class-Path: about-2.0.jar
+Created-By: 1.6 (Sun Microsystems Inc.)
